@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/wine.h
+iostream
+-
+string.h
+-
+valarray
+-
+utility
+-
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/src/wine.cpp
+wine.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/src/wine.h
+ostream
+-
+valarray
+-
+string
+-
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/src/wineMain.cpp
+iostream
+-
+wine.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/src/wine.h
+

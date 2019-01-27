@@ -1,0 +1,3 @@
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/build/CMakeFiles/edit_cache.dir
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/build/CMakeFiles/rebuild_cache.dir
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/06Comp/build/CMakeFiles/wineMain.dir
