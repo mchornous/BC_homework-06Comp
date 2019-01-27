@@ -19,6 +19,7 @@ Wine::Wine(const char* l, int y, const int yr[], const int bot[])
     }
     label = tempName;
     strcpy(label, l);
+    tempName = nullptr;
 }
 
 Wine::Wine(const char* l, int y)
@@ -35,6 +36,7 @@ Wine::Wine(const char* l, int y)
     }
     label = tempName;
     strcpy(label, l);
+    tempName = nullptr;
 }
 
 void Wine::show() const
